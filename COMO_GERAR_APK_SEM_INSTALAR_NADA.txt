@@ -1,0 +1,14 @@
+CONSULTA NF M&R - GERAR APK PELO NAVEGADOR
+
+1. Entre em github.com e crie um repositório novo.
+2. Clique em "uploading an existing file".
+3. Envie todo o conteúdo desta pasta, mantendo as pastas lib, assets, scripts e .github.
+4. Finalize em "Commit changes".
+5. Abra a aba "Actions".
+6. Abra "Gerar APK" e clique em "Run workflow".
+7. Quando ficar verde, abra a execução.
+8. Na seção Artifacts, baixe "ConsultaNF-MR-APK".
+9. Extraia o arquivo e envie app-release.apk ao celular.
+10. No Android, autorize a instalação de aplicativos desconhecidos e instale.
+
+A compilação acontece no servidor do GitHub, não no computador da empresa.
