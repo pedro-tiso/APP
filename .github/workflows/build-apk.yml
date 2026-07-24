@@ -25,3 +25,8 @@ jobs:
         with:
           name: ConsultaNF-MR-APK
           path: build/app/outputs/flutter-apk/app-release.apk
+ dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.13.1
