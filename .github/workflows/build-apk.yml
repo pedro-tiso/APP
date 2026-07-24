@@ -30,3 +30,7 @@ jobs:
     sdk: flutter
 
   flutter_launcher_icons: ^0.13.1
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icone.png"
